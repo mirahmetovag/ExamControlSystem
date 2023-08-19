@@ -1,0 +1,6 @@
+{
+    "PORT": 4080,
+    "JWT_SECRET_KEY": "THI$I$A$ECRETKEYFORMYPROJECT",
+    "DB_URL": "mongodb://127.0.0.1:27017/exam",
+    "TEACHER_EMAIL": "mirahmetovaguzal@gmail.com"
+}
